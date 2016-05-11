@@ -13,9 +13,6 @@ https://www.facebook.com/space.at.siam/
 https://goo.gl/maps/iJQ5bdPJDqt
 
 # attendees
-<<<<<<< HEAD
 Vai
-
-=======
 tanaphonble
->>>>>>> a0b497b465ac0927ff19993802bdbb9ca0c77617
+Beth P
