@@ -13,9 +13,9 @@ https://www.facebook.com/space.at.siam/
 https://goo.gl/maps/iJQ5bdPJDqt
 
 # attendees
-Vai
-Tanaphonble
-Beth P
-Poiploy
-Preaw
-Sean
+- Vai
+- Tanaphonble
+- Beth P
+- Poiploy
+- Preaw
+- Sean
